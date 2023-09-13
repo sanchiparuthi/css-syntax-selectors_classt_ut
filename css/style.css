@@ -1,20 +1,32 @@
 
+
+
 body{
-  color: palevioletred
+  color: rgb(230, 104, 146);
+  background-color: rgb(41, 52, 42)
+
 }
 
-h{
-  color:brown
+h1{
+  box-shadow: 135px 0px;
+  flex-wrap: 50px;
+  color:rgb(234, 12, 104)
+
 }
 
 .quote{
-  color: orange
+  color: orange;
 }
 
-.quote .narrator{
-color-scheme: rgb(70, 70, 192);
+.quote.narrator {
+  color: rgba(63, 71, 211, 0.764);
 }
 
-#intro {
+#intro p {
   color: sandybrown
+}
+
+.super-important-omg {
+  font-size: 20px;
+  background-color: rgb(188, 39, 13);
 }
